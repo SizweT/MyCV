@@ -1,2 +1,2 @@
 # MyCV
-My personal onlive CV
+My personal onlive webpage that acts as my online CV.
