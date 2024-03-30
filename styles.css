@@ -1,0 +1,69 @@
+/* Apply styles to header */
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+}
+
+/* Apply styles to section headings */
+h2 {
+    color: #007bff;
+}
+
+/* Apply styles to paragraphs */
+p {
+    color: #6c757d;
+}
+
+/* Apply styles to unordered lists */
+ul {
+    color: #6c757d;
+}
+
+/* Apply styles to list items */
+li {
+    color: #6c757d;
+}
+
+/* Apply styles to links */
+a {
+    color: #007bff;
+}
+
+/* Apply styles to buttons */
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Apply hover effect to buttons */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Apply styles to form inputs */
+input[type="text"],
+input[type="email"],
+textarea {
+    border: 1px solid #ced4da;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+/* Apply styles to form submit button */
+input[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Apply hover effect to form submit button */
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
